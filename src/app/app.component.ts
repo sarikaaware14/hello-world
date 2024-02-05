@@ -11,5 +11,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'hello-world';
-  test = 'testing'
+  test = 'testing';
+  test1 = "sadasdasda"
 }
